@@ -1,4 +1,4 @@
-# :female_sign: :male_sign: :question: 
+<img src="https://github.com/XimenaPTM/project2-da-promo-c-modulo-2-team4/blob/main/Ximena%20trujillo%20morillo.png" width="600" align='center'>
 
 ## Indice 	:bell:
 
