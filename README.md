@@ -10,15 +10,16 @@
 # Información general 
 ***
 
-:key: Este repositorio contiene nuestro proyecto Data datos, en el cual se describe  perfil de un/una analista de datos, el mercado de trabajo de la ciencia de datos y las herramientas más cotizadas en el sector.
+:key: Este repositorio contiene el proyecto Data datos, en el cual se describe el perfil de un/una analista de datos, el mercado de trabajo de la ciencia de datos y las herramientas más cotizadas en el sector.
 
-## Archivos :
-***
+
 
 :file_folder:
 
-00. Archivo resumen
-
+- Apertura y guardado
+- EDA
+- Limpieza
+- Preguntas
  
 
               
