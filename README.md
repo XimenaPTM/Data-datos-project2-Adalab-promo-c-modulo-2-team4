@@ -24,19 +24,19 @@
 
               
 :file_folder:
-## Librerías 
+## Python 
 
 :round_pushpin: Se necesitarán las librerias:
 ```
-:sparkle: datetime
-:sparkle: os
-:sparkle: numpy
-:sparkle: panda
-:sparkle: pickle
-:sparkle: regex
-:sparkle: seaborn
-:sparkle: matplotlib
-:sparkle: scipy
+- datetime
+- os
+- numpy
+- pandas
+- pickle
+- regex
+- seaborn
+- matplotlib
+- scipy
 ```
 
 
