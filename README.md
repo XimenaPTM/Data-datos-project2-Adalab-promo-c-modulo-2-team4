@@ -1,20 +1,20 @@
 <img src="https://github.com/XimenaPTM/project2-da-promo-c-modulo-2-team4/blob/main/Ximena%20trujillo%20morillo.png" width="600" align='center'>
 
-## Indice 	:bell:
+# Indice 	:bell:
 
-  1. [Información general](#informacion-general)
-  2. [Archivos](#archivos)
-  3. [Librerías](#librerias)
-  5. [Presentación](#presentacion)
-  4. [Integrantes](#integrantes)
+  1. Información general
+  2. Archivos
+  3. Librerías
+  4. Presentación
+  5. Integrantes
 
-# Información general 
+# 1.Información general 
 ***
 
 :key: Este repositorio contiene el proyecto Data datos, en el cual se describe el perfil de un/una analista de datos, el mercado de trabajo de la ciencia de datos y las herramientas más cotizadas en el sector.
 
 
-
+# 2. Archivos 
 :file_folder:
 
 - Apertura y guardado
@@ -22,7 +22,7 @@
 - Limpieza
 - Preguntas
  
-
+# 3.Librerías
               
 :file_folder:
 ## Python 
@@ -40,10 +40,10 @@
 - scipy
 ```
 
-# Presentación
+# 4. Presentación
 https://drive.google.com/file/d/19CJr6HfIM78WUqU2PxvFSU0qjpMoxQM9/view?usp=sharing
 
-# Integrantes 
+# 5. Integrantes 
 ***
   + :woman: [Ximena](https://github.com/XimenaPTM)
   + :woman: [Irene](https://github.com/ipowersrodriguez)
